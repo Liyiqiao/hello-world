@@ -1,0 +1,5 @@
+﻿Git clone  XXX
+
+git add .
+Git commit -m “XXX”
+git push
